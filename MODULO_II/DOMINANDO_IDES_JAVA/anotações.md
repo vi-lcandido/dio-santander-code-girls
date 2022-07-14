@@ -12,3 +12,40 @@
 ** IDE ** - software q combina ferramentas comuns de desenvolvimento em uma única interface gráfica
 > - Eclipse
 > - IntelliJ
+
+# Instalação JDK e GIT no Windows
+- cria um programa com extensão .java
+- o arquivo .class existe depois que eu compilo o arquivo java
+- para compilar > no cmd digitar javac > "nomedoprogra.java" > enter
+- para executar > entrar no cmd > java e escrever o nome do documento sem a extensão e dar enter
+- pra poder rodar prcisa do public static void main pra poder rodar o programa
+
+# Eclipse
+- create a javaproject ou crtl+n ou file > new > javaproject
+- nomear projeto
+- colocar local de salvamento do projeto 
+> - coloque no seu próprio workspace
+- finish
+> - se perguntar se quer criar um módulo java coloque **NÃO**
+- após de criar a visualização a esquerda ficará diferente
+- clicar no nome do projeto pra abrir o que tem abaixo
+- __SRC__ - onde ficará o código fonte
+- pra criar uma classe > clicar no SRC > crtl + n > digitar class > next (vai abrir uma janela) > nomear a classe > marcar a caixa que tem **public static void main** > finish
+- escrever o código
+- pra rodar é só clicar na seta verde "RUN (nomedoprograma)"
+- clicar na caixa que indica pra salvar toda vez que for rodar o código
+## Atalhos
+- ctrl+3 = escolher perspectivas ou construct gerante fields o u criação de getter ou setter etc
+- ctrl+d = deleta a linha
+- ctrl+n = cria novo projeto
+- /*   */ = início e fim de um comentário
+ - alt + seta pra cima = move um bloca de lugar
+ - ctrl + shift + f = refatora
+  - ctrl +shift + o = importa
+  - class no mesmo arquivos não há necessidade de importat, só os que estão fora do arquivo que está sendo alterado atualmente
+
+  ## Git GitHub
+  - na pasta src ficam os códigos fontes
+  - na pasta bin ficam o .class
+  - no projeto na aba do lado esquerdo > botão direito > team > share project 
+  - no projeto na aba do lado esquerdo > botão direito > team > commit
