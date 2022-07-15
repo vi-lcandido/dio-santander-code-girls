@@ -49,3 +49,13 @@
   - na pasta bin ficam o .class
   - no projeto na aba do lado esquerdo > botão direito > team > share project 
   - no projeto na aba do lado esquerdo > botão direito > team > commit
+ - na janela que abrir abaixo commit and push (olhar a de novo depois pra essa parte final)
+
+
+ ## Debug
+ - serve pra ajudar a encontrar e resolver o erro
+ - ctrl + alt+ seta pra baixo = copia a linha
+ - colocar o break point para indicar que a partir dele se faça o debug, estudar linha a linha pra achar o erro
+ - ctrl+shift+t = procura a classe que quer
+ - ctrl+w = fecha a aba
+ - ctrl+shift+w = fecha tudo
