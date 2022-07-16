@@ -1,6 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
-
-public class Main {
+public class criando_variaveis {
 
      public static void main(String[] args) {
          int i;
