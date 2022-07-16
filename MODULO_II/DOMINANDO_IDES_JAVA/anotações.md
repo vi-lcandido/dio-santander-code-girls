@@ -59,3 +59,37 @@
  - ctrl+shift+t = procura a classe que quer
  - ctrl+w = fecha a aba
  - ctrl+shift+w = fecha tudo
+ - clicar com botão direito na pasta do projeto > build path > configure build path > 
+
+ # intellij
+
+## criando primeiro programa 
+ - new project > java > setar tudo como devido
+ - ALT + INSERT = criar package ou class ou na parte do comando gera constructor ou getter e setter
+ - ALT+ENTER = faz import
+ - ctrl+o = limpa o import 
+ - ctrl+y = deleta linha'
+ - shift+f12 aumenta a tela
+ - alt+1 - diminui a tela q aumentou
+
+ ## mais atalhos e versionamento
+ - shift +f6 = renomear a classe que fica na aba esquerda da tela
+ - ctrl+alt+l = arruma refatorando o código
+ - ctrl+d = duplica a linha
+ - ctrl+shift+(setinha pra cima ou pra baixo) = mmuda de linha
+ - subir no GIT
+ > - na aba de cima clicar em GIT > commit
+
+ ## debug
+ - psvm ou main = cria public static vois main
+ - ctrl+alt+v = priemiro clica no nome que foi criada > faz o comando pra criar a variável
+ - colocar o ponto onde acha que o erro está ocorrendo > botão direito na área do código > debug (o console será alterado)
+ - o debug executa até a última linha antes do breakpoint
+ - step into pra entrar no método
+ - step over volta 
+- ctrl+f4 = fecha as abas
+- ctrl+n = procura classes
+- ctrl+b = entra em uma classe
+- git tool box - mostra qm e qnd fez commit
+- key prometer x - relacionado aos atalhos
+ 
