@@ -17,3 +17,13 @@
 - Passagem de parâmetros
 >- por valor (cópia)
 >- por referência (endereço)
+
+## Sobrecagra
+- capacidade de definir métodos para diferentes contextos, ou seja, um mesmo método vai se comportar de forma diferente de acordo com alguma necessidade mas preservando seu nome
+>- pra que isso aconteça muda-se a lista de parâmetros 
+>- converterParaInteiro (float f)
+>- converterParaInteiro (double d)
+>- converterParaInteiro (String s)
+>- converterParaInteiro (float f, RoundType rd)
+>- converterParaInteiro (double d, RoundType rd) etc
+>- se mudar a sequencia dos parâmetros ou manter o parâmetro vazio é outro sobrecarga
