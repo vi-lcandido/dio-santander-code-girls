@@ -27,3 +27,13 @@
 >- converterParaInteiro (float f, RoundType rd)
 >- converterParaInteiro (double d, RoundType rd) etc
 >- se mudar a sequencia dos parâmetros ou manter o parâmetro vazio é outro sobrecarga
+
+## Retorno
+- return
+- o método executa seu retorno qnd:
+>- completa todas duas instruções internas
+>- chega a uma delcaração explícita de retorno
+>- lança uma exceção
+- o tipo de retorno do métoso é definida na sua criação, pode ser primitivo ou obejto
+- o tipo de dado do return deve ser compatível com o do método
+- se o método for sem retorno (void), pode ou não ter um "return" para encerrar sua execução mas não pode ter um valor nesse return
