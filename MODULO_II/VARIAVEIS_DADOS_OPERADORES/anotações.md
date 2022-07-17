@@ -20,3 +20,24 @@
   ## tipo de dado
   - float - colocar (f) ao final do númeto para indicar que é um float
   - double - colocar (d) ao final do númeto para indicar que é um double
+
+  ## operadores aritméticos
+  - pós fixado
+  >- exp++ = usa a expressão pra depois somar uma unidade
+  >- exp-- = usa a expressão pra depois diminui uma unidade
+  - préd fixado
+  >- ++exp = soma uma unidade pra depois usar a expressão
+  >- --exp = diminui uma unidade pra depois usar a expressão
+  - aritmético: +,-,*,/ e % (resto da divisão = mode)
+  - atribuição: =, += (atribuição com soma), -= (atibuição com subtração), *= (atribuição com multiplicação), /= (atribuição com divisão), %= (atribuição com mod)
+  - há ordem para relazação dos operadores
+  >- pós-fixados(exp++,exp--)
+  >- prefixado(++exp,--exp)
+  >- multiplicativo (*,/,%)
+  >- aditivo/subtração(+,-)
+  >- atribuição (=.+=,-=,*=,/=,%=)
+## Casting
+- transformar uma determinada variável de tipo menos específico para um tipo mais específico ou vice-versa
+- Upcast (implícito) -> promoção d eum dado de menor capacidade para um de maior capaciade de representação e armazenamento
+- downcast -> tipo de dado maior em sua capacidade de representação e armazenamento e rebaixar ela
+-
