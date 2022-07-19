@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../MODULO_III/DESAFIOS/DESAFIOS.iml" filepath="$PROJECT_DIR$/../../../MODULO_III/DESAFIOS/DESAFIOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../LOGICA_CONTRLE_FLUXOS/LOGICA_CONTRLE_FLUXOS.iml" filepath="$PROJECT_DIR$/../../LOGICA_CONTRLE_FLUXOS/LOGICA_CONTRLE_FLUXOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../MODULO_III/PROGRAMACAO_ORIENTADA_OBJETOS/PROGRAMACAO_ORIENTADA_OBJETOS.iml" filepath="$PROJECT_DIR$/../../../MODULO_III/PROGRAMACAO_ORIENTADA_OBJETOS/PROGRAMACAO_ORIENTADA_OBJETOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>
